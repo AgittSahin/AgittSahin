@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Agit</h1>
-<h3 align="center">Professional Learner</h3>
+## 👋 Hey, I'm Agit
 
-- 🌱 I’m currently learning **Python**
+I'm teaching myself AI from scratch — one model, one mistake, and one insight at a time.
 
-- 📫 How to reach me **agittsahin@gmail.com**
+📍 Final-year Software Engineering student in Berlin  
+⚙️ Learning in public: math, forecasting, systems, deployment  
+🧠 Focused on building real-world intelligence, not just demos  
+✍️ I write about everything I break and rebuild → [Medium](https://medium.com/@agitmemetsahin)
 
-- ⚡ Fun fact **I am a professional Martial Arts tutor**
+📬 Reach me: agittsahin@gmail.com
